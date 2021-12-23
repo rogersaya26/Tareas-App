@@ -4,7 +4,7 @@ import Todo from "./Todo";
 const TodoList = ({ todos, todoDelete, todoToogleCompleted, setTodoEdit }) => {
   return (
     <div>
-      <h2 className="text-end display-4">Soy TodoList</h2>
+      <h2 className="text-end display-4">Lista de Tareas</h2>
 
       {
       

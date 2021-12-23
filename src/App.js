@@ -6,14 +6,14 @@ import "./App.css";
 const initialTodos = [
   {
     id: 1,
-    title: "Todo #1",
-    description: "Desc del Todo #1",
+    title: "Dormir Bien",
+    description: "Acostarme a las 10 pm dormir 10 horas reglamentaria. Colocar despertador a las 8 am.",
     completed: false,
   },
   {
     id: 2,
-    title: "Todo #2",
-    description: "Desc del Todo #2",
+    title: "Hacer Mercado Coto",
+    description: "-1 Mapple Huevos -1 Lts Aceite Girasol -5 kg Fideos -3 kg Arroz -1 3lts CocaCola",
     completed: true,
   },
 ];
